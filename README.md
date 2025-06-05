@@ -50,7 +50,7 @@ func main() {
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,debian,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=debian,windows" />
   </a>
 </p>
 

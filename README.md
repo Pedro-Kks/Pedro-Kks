@@ -8,7 +8,7 @@
 **`Estudante de Cibersegurança`**
 </br>
 - Estou cursando Defesa Cibernética🔒🖥️🏴‍☠.
-- Tenho interesse em me tornar um especialista em Hacking sendo um Malware Developer e Pentester.
+- Tenho interesse em me tornar um especialista em Hacking Pentester e um Dev Golang.
 - Possuo nível de proficiência A2 no idioma Russo 🇷🇺 e pretendo ficar fluente. 🇧🇷🇷🇺
 
 

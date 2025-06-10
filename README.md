@@ -23,19 +23,18 @@
 
 </br>
 
-```go
+```java
 // 🌐 Saudações!
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Print(`
-╔════════════════════╗
-║  Olá, visitante!👋 ║
-╚════════════════════╝
-`)
+public class Main {
+    public static void main(String[] args) {
+        System.out.print(
+            "╔════════════════════╗\n" +
+            "║  Olá, visitante!👋 ║\n" +
+            "╚════════════════════╝\n"
+        );
+    }
 }
+
 ```
 <br/>
 

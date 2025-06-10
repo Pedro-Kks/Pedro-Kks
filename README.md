@@ -8,7 +8,7 @@
 **`Estudante de Cibersegurança`**
 </br>
 - Estou cursando Defesa Cibernética🔒🖥️🏴‍☠.
-- Tenho interesse em me tornar um especialista em Hacking Pentester e um Desenvolvedor Back-End.
+- Tenho interesse em me tornar um especialista em Cibersegurança e um Desenvolvedor Back-End.
 - Possuo nível de proficiência A2 no idioma Russo 🇷🇺 e pretendo ficar fluente. 🇧🇷🇷🇺
 
 

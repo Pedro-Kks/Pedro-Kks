@@ -9,6 +9,7 @@
 </br>
 - Estou cursando Defesa Cibernética🔒🖥️🏴‍☠.
 - Tenho interesse em me tornar um especialista em Cibersegurança e um Desenvolvedor Back-End.
+- Atualmente estou aprendendo Java e Golang
 - Possuo nível de proficiência A2 no idioma Russo 🇷🇺 e pretendo ficar fluente. 🇧🇷🇷🇺
 
 

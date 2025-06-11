@@ -58,7 +58,7 @@ public class Main {
       align="center" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas:&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas" 
     />
  </p>
  <br/>

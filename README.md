@@ -67,7 +67,7 @@ kefa@debian:~$
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,java,go" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,go,bash" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias</h3>

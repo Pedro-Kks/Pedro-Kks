@@ -30,12 +30,19 @@
  </p>
 
  ```bash
+kefa@debian:~$ tree ~/contatos
+/home/kefa/contatos
+├── email.txt
+├── github.txt
+└── gpg.key
+
 kefa@debian:~$ cat ~/contatos/email.txt
 ==================================
 📧 E-mail público para contato:
 
 kefasn@proton.me
 ==================================
+kefa@debian:~$
 
 ```
 

@@ -13,7 +13,7 @@
 - 🔐 Focado em **Cibersegurança** e **Desenvolvimento Back-End**
 - 💻 Atualmente aprendendo **Java** e **Golang**
 - 🌍 Estudando **russo 🇷🇺 (nível A2)** e avançando para fluência
-- 🔍 Fascinado por **Pentest**, **Segurança de Sistemas** e **Linux**
+- 🔍 Fascinado por **Pentest**, **Anonimato** e **Linux**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

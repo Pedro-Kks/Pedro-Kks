@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student;Seja+bem-vindo(a))](https://git.io/typing-svg)
 
-# 👨‍💻 Pedro Ka
+# 👨‍💻 Pedro
 
 **`Estudante de Cibersegurança`**
 </br>
@@ -61,6 +61,26 @@ public class Main {
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas" 
     />
  </p>
+ <p align="center">
+    <img 
+      align="center" 
+      alt="GitHub Stats" 
+      height="35" 
+      src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" 
+    />
+ </p>
+
+ ```java
+    public class Contato {
+    public static void main(String[] args) {
+        String email = "kefasn@proton.me";
+        System.out.println("📧 Entre em  contato.");
+        System.out.println("→ Meu Proton Mail público: " + email);
+        System.out.println("🔒 yt-XeST5dTA44ACOd_ziRw");
+    }
+}
+```
+ 
  <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>

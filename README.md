@@ -74,8 +74,8 @@ public class Main {
     public class Contato {
     public static void main(String[] args) {
         String email = "kefasn@proton.me";
-        System.out.println("📧 Entre em  contato.");
-        System.out.println("→ Meu Proton Mail público: " + email);
+        System.out.println("📧 Entre em contato.");
+        System.out.printf("→ Meu Proton Mail público: %s.\n", email);
         System.out.println("🔒 yt-XeST5dTA44ACOd_ziRw");
     }
 }

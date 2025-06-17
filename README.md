@@ -23,9 +23,9 @@
 <p align="center">
     <img 
       align="center" 
-      alt="Debian" 
+      alt="Arch" 
       height="100" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" 
     />
  </p>
  
@@ -74,7 +74,7 @@ kefa@archlinux:~$
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=debian,windows,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,github,git" />
   </a>
 </p>
 

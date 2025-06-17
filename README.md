@@ -25,33 +25,34 @@
       align="center" 
       alt="Arch" 
       height="100" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-plain.svg" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     />
  </p>
  
 # 📩 Proton Mail
 
  ```bash
-kefa@archlinux:~$ pwd
+kefa@EndeavourOS:~$ pwd
 /home/kefa
 
-kefa@archlinux:~$ ls
+kefa@EndeavourOS:~$ ls
 contatos  scripts  projetos
 
-kefa@archlinux:~$ tree ~/contatos
+kefa@EndeavourOS:~$ tree ~/contatos
 /home/kefa/contatos
 ├── email.txt
 ├── github.txt
 └── gpg.key
 
-kefa@archlinux:~$ cat ~/contatos/email.txt
+kefa@EndeavourOS:~$ cat ~/contatos/email.txt
 ==================================
 📧 E-mail público para contato:
 
 kefasn@proton.me
 ==================================
 
-kefa@archlinux:~$
+kefa@EndeavourOS:~$
+
 ```
 
 <br/>

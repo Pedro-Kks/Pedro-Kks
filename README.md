@@ -10,7 +10,7 @@
 **`Estudante de Cibersegurança`**
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Focado em **Segurança Ofensiva** (Pentest) para explorar falhas em **Web Sites** 
+- 🔐 Focado em **Segurança Ofensiva** (Pentest) 
 - 💻 Atualmente aprendendo **Java**, **Redes**, **Linux** e **Fundamentos em Segurança** 
 - 🌍 Falo **Russo 🇷🇺 (nível A2)** e pretendo ser fluente no idioma
 - 🔍 Interesse por **Anonimato** e **Vulnerabilidades**

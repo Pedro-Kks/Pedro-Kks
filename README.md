@@ -96,6 +96,16 @@ kefa@debian:~$
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏴‍☠️ Progresso em TryHackMe 
+
+- 📖🔓Começando pela base nos **fundamentos**
+- 🥼🔬Iniciando no mundo da **Segurança Ofensiva**
+- 👨‍🔬⚗️Estudando laboratórios no [TryHackMe](https://tryhackme.com/p/Kefasx.png) com foco ofensivo
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Kefasx.png" alt="Your Image Badge" />
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  <p align="center">
     <img 
       align="center" 

@@ -81,16 +81,17 @@ kefa@debian:~$
 
  <br/>
 
-<div align="center">
-    <h3>🧑‍💻TryHackMe</h3>
-    <p align="center">
-    🔒 Estudando hacking web e segurança ofensiva <br>
-    🚩 Buscando mais badges e completando salas
-    </p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 👨‍💻 Progresso no TryHackme
+
+**`TryHackeMe`**
+</br>
+- Iniciando nas salas **TryHackMe** 🖥️🏴‍☠️.
+- Foco em salas ofensivas 🔐
+- Estudando a bases da segurança 🔍
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kefasx.png" alt="Your Image Badge" />
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

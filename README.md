@@ -83,15 +83,16 @@ kefa@debian:~$
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👨‍💻 Progresso no TryHackme
-
-**`TryHackeMe`**
 </br>
-- Iniciando nas salas **TryHackMe** 🖥️🏴‍☠️.
-- Foco em salas ofensivas 🔐
-- Estudando a bases da segurança 🔍
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Kefasx.png" alt="Your Image Badge" />
+## 🎓 Certificações
+
+| Certificação | Instituição / Plataforma | Status |
+|---|---|---|
+| Dark Web e Privacidade | XPSec Scurity | ✅ Concluído |
+| Formação em Cibersegurança | Hackers do Bem | ✅ Concluído |
+| Introdução à Cibersegurança | Cisco Networking Academy | ✅ Concluído |
+| Fundamentos de segurança cibernética | Cisco Networking Academy | 🎯 Em andamento  |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

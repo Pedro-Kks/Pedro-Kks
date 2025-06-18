@@ -81,6 +81,15 @@ kefa@debian:~$
 
  <br/>
 
+ ## 🧑‍💻TryHackMe
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Kefasx.png)](https://tryhackme.com/p/Kefasx)
+
+- 🔒 Estudando hacking web e segurança ofensiva
+- 🚩 Buscando mais badges e completando salas
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
  <p align="center">
     <img 
       align="center" 
@@ -89,6 +98,7 @@ kefa@debian:~$
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas" 
     />
  </p>
+ 
  <br/>
-
+ 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>

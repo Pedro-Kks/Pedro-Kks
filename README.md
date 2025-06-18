@@ -32,26 +32,26 @@
 # 📩 Proton Mail
 
  ```bash
-kefa@EndeavourOS:~$ pwd
+kefa@debian:~$ pwd
 /home/kefa
 
-kefa@EndeavourOS:~$ ls
+kefa@debian:~$ ls
 contatos  scripts  projetos
 
-kefa@EndeavourOS:~$ tree ~/contatos
+kefa@debian:~$ tree ~/contatos
 /home/kefa/contatos
 ├── email.txt
 ├── github.txt
 └── gpg.key
 
-kefa@EndeavourOS:~$ cat ~/contatos/email.txt
+kefa@debian:~$ cat ~/contatos/email.txt
 ==================================
 📧 E-mail público para contato:
 
 kefasn@proton.me
 ==================================
 
-kefa@EndeavourOS:~$
+kefa@debian:~$
 
 ```
 

@@ -100,7 +100,7 @@ kefa@debian:~$
 
 - 📖🔓Começando pela base nos **fundamentos**
 - 🥼🔬Iniciando no mundo da **Segurança Ofensiva**
-- 👨‍🔬⚗️Estudando laboratórios no [TryHackMe](https://tryhackme.com/p/Kefasx.png) com foco ofensivo
+- 👨‍🔬⚗️Estudando laboratórios com foco mais ofensivo
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Kefasx.png" alt="Your Image Badge" />
 

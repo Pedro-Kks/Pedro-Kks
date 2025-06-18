@@ -11,9 +11,9 @@
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Focado em **Cibersegurança Web** e **Desenvolvimento Web Back-End**
-- 💻 Atualmente aprendendo **Java**
+- 💻 Atualmente aprendendo **Java**, **Redes**, **Linux** e **Fundamentos em Segurança** 
 - 🌍 Estudando **Russo 🇷🇺 (nível A2)** e avançando para fluência
-- 🔍 Interesse por **Pentest**, **Anonimato** e **Linux**
+- 🔍 Interesse por **Pentest**, **Anonimato** e **Vulnerabilidades**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

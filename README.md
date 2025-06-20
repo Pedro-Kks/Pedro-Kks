@@ -12,7 +12,7 @@
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Focado em **Segurança Ofensiva** (Pentest) 
 - 💻 Atualmente aprendendo **Java**, **Redes**, **Linux** e **Fundamentos em Segurança** 
-- 🌍 Russo nível pré-intermediário (A2 avançado) 🇷🇺  
+- 🌍 Russo nível pré-intermediário (A2 avançado) e pretendo ser fluente 🇷🇺  
 - 🔍 Interesse por **Anonimato** e **Vulnerabilidades**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

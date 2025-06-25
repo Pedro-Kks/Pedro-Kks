@@ -23,7 +23,7 @@
 <p align="center">
     <img 
       align="center" 
-      alt="Arch" 
+      alt="Linux" 
       height="100" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     />

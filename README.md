@@ -111,7 +111,7 @@ kefa@debian:~$
       align="center" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_title=Linguagens+mais+usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Kks&theme=tokyonight&layout=compact&custom_titlle=Linguagens+mais+usadas" 
     />
  </p>
  

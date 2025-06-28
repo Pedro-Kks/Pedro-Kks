@@ -64,7 +64,7 @@ kefa@debian:~$
 </div>     
 
 <div align="center">
-    <h3>🧑‍💻🔧Linguagens</h3>
+    <h3>🧑‍💻🔧Linguagens que utilizo</h3>
 </div>
 <p align="center">
   <a href="#">
@@ -75,7 +75,7 @@ kefa@debian:~$
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,webstorm,github,git" />
   </a>
 </p>
 

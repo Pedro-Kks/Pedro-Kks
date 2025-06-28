@@ -15,7 +15,8 @@
 
 # Sobre mim 🇧🇷
 
-🔍 Sou apaixonado por **cibersegurança ofensiva**, com foco em **pentest** (testes de intrusão), exploração de **vulnerabilidades**. 💻  </br>
+🔍 Tenho interesse por **cibersegurança ofensiva**, com foco em **pentest**, exploração de **vulnerabilidades**, **anonimato** e **desenvolvimento web**.
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

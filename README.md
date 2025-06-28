@@ -11,9 +11,12 @@
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Focado em **Segurança Ofensiva** (Pentest) 
-- 💻 Atualmente aprendendo **Desenvolvimento Web**, **Redes**, **Linux** e **Fundamentos em Segurança** 
-- 🔍 Interesse por **Anonimato** e **Vulnerabilidades**
-- 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2)  
+- 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2)
+
+# Sobre mim 🇧🇷
+
+🔍 Sou apaixonado por **cibersegurança ofensiva**, com foco em **pentest** (testes de intrusão), exploração de **vulnerabilidades**. 💻  </br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

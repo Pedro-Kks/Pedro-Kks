@@ -10,7 +10,7 @@
 **`Estudante de Cibersegurança`**
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Focado em **Segurança Ofensiva** e **Desenvolvimento Web**.
+- 🔐 Aprendendo sobre **Desenvolvimento Web** e **Segurança Ofensiva**.
 - 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2).
 
 # Sobre mim 🇧🇷

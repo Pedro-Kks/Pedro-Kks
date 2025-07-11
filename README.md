@@ -79,7 +79,7 @@ kefa@debian:~$
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,idea,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,webstorm,idea,github,git" />
   </a>
 </p>
 

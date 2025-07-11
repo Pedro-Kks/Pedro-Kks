@@ -15,7 +15,7 @@
 
 # Sobre mim 🇧🇷
 
-🔍 Tenho interesse por **cibersegurança ofensiva**, com foco em **pentest**, exploração de **vulnerabilidades**, **anonimato** e **desenvolvimento web**.
+🔍 Tenho interesse por **cibersegurança**, exploração de **vulnerabilidades**, **anonimato** e **desenvolvimento web**.
 
 
 

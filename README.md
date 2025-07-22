@@ -15,7 +15,7 @@
 
 # Sobre mim 🇧🇷
 
-🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e o **idioma russo** o qual eu amo tanto. Na área de tecnologia, meus interesses são por **Cibersegurança** e **Desenvolvimento Web**.
+🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e o **idioma russo**, o qual eu amo tanto. Na área de tecnologia, meus interesses são por **Cibersegurança** e **Desenvolvimento Web**.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

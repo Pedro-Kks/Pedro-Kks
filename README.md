@@ -1,21 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Cybersecurity+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Tudo+bem?)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 👨‍💻 Pedro
 
-**`Estudante de Cibersegurança`**
+**`Estudante Back-end`**
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Aprendendo sobre **Desenvolvimento Back-End** e **Cibersegurança**.
+- 🔐 Aprendendo sobre **Desenvolvimento Back-End**.
 - 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2).
 
 # Sobre mim 🇧🇷
 
-🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e o **idioma russo**, o qual eu amo tanto. Na área de tecnologia, meus interesses são por **Cibersegurança** e **Desenvolvimento Web**.
+🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e o **idioma russo**, o qual eu amo tanto. Na área de tecnologia é **Desenvolvimento Web**.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -24,37 +24,37 @@
 
 </br>
 <p align="center">
-    <img 
+    <img
       align="center" 
       alt="Linux" 
-      height="100" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-    />
+      height="100"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
  </p>
  
-# 📩 Proton Mail
+ <br>
+ 
+ ```cs
+using System;
 
- ```bash
-kefa@debian:~$ pwd
-/home/kefa
+namespace ContatoEmail
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            MostrarEmailPublico();
+        }
 
-kefa@debian:~$ ls
-contatos  scripts  projetos
+        static void MostrarEmailPublico()
+        {
+            Console.WriteLine("==================================");
+            Console.WriteLine("📧 E-mail público para contato:\n");
+            Console.WriteLine("kefasn@proton.me");
+            Console.WriteLine("==================================");
+        }
+    }
+}
 
-kefa@debian:~$ tree ~/contatos
-/home/kefa/contatos
-├── email.txt
-├── github.txt
-└── gpg.key
-
-kefa@debian:~$ cat ~/contatos/email.txt
-==================================
-📧 E-mail público para contato:
-
-kefasn@proton.me
-==================================
-
-kefa@debian:~$
 
 ```
 
@@ -78,7 +78,7 @@ kefa@debian:~$
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,windows,vscode,github,git" />
   </a>
 </p>
 
@@ -97,15 +97,6 @@ kefa@debian:~$
 | Introdução à Cibersegurança | Cisco Networking Academy | ✅ Concluído |
 | Analista de Cibersegurança Júnior | Cisco Networking Academy | 🎯 Em andamento  |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏴‍☠️ Progresso em TryHackMe 
-
-- 📖🔓Começando pela base nos **fundamentos**
-- 🥼🔬Iniciando no mundo da **Segurança Ofensiva**
-- 👨‍🔬⚗️Estudando laboratórios com foco mais ofensivo
-
-<a href="https://tryhackme.com/p/Kefasx"><img src="https://tryhackme-badges.s3.amazonaws.com/Kefasx.png" alt="Your Image Badge" /></a>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

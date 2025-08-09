@@ -11,7 +11,7 @@
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Aprendendo sobre **Desenvolvimento Back-End**.
-- 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2).
+- 🌍 Inglês 🇺🇸 (A1), Russo 🇷🇺 (A2 - B1).
 
 # Sobre mim 🇧🇷
 

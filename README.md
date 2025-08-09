@@ -87,7 +87,7 @@ namespace BemVindo
 
 </br>
 
-## 🎓 Certificações
+## 🎓 Certificados
 
 | Certificação | Instituição / Plataforma | Status |
 |---|---|---|

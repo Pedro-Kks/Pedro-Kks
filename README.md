@@ -15,7 +15,7 @@
 
 # Sobre mim 🇧🇷
 
-🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e o **idioma russo**, o qual eu amo tanto. Na área de tecnologia é **Desenvolvimento Web**.
+🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e principalmente o **idioma russo**, o qual eu amo tanto.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -36,20 +36,19 @@
  ```cs
 using System;
 
-namespace ContatoEmail
+namespace BemVindo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            MostrarEmailPublico();
+            MostrarMensagem();
         }
 
-        static void MostrarEmailPublico()
+        static void MostrarMensagem()
         {
             Console.WriteLine("==================================");
-            Console.WriteLine("📧 E-mail público para contato:\n");
-            Console.WriteLine("kefasn@proton.me");
+            Console.WriteLine("Olá! Bem-vindo(a)!");
             Console.WriteLine("==================================");
         }
     }

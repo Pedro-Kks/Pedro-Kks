@@ -11,7 +11,7 @@
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Aprendendo sobre **Desenvolvimento Back-End**.
-- 🌍 Idiomas que falo: Português 🇧🇷 Russo 🇷🇺 (A2 - B1).
+- 🌍 Idiomas que falo: Português 🇧🇷 e Russo 🇷🇺 (A2 - B1).
 
   
 # Sobre mim 🇧🇷

@@ -11,8 +11,9 @@
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Aprendendo sobre **Desenvolvimento Back-End**.
-- 🌍 Russo 🇷🇺 (A2 - B1), Inglês 🇺🇸 (A1).
+- 🌍 Idiomas que falo: Português 🇧🇷 Russo 🇷🇺 (A2 - B1).
 
+  
 # Sobre mim 🇧🇷
 
 🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e principalmente o **idioma russo**, o qual eu amo tanto.

@@ -10,7 +10,7 @@
 **`Estudante Back-end`**
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Aprendendo sobre **Desenvolvimento Back-End**.
+- 🔐 Aprendendo sobre **Desenvolvimento Web**.
 - 🌍 Idiomas que falo: Português 🇧🇷 e Russo 🇷🇺 (A2 - B1).
 
   
@@ -27,35 +27,22 @@
 <p align="center">
     <img
       align="center" 
-      alt="Linux" 
+      alt="LOGO" 
       height="100"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  </p>
  
  <br>
  
  ```cs
-using System;
+// bemvindo.ts
 
-namespace BemVindo
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            MostrarMensagem();
-        }
-
-        static void MostrarMensagem()
-        {
-            Console.WriteLine("==================================");
-            Console.WriteLine("Olá! Bem-vindo(a)!");
-            Console.WriteLine("==================================");
-        }
-    }
+function mostrarMensagem(): void {
+    console.log("==================================");
+    console.log("Olá! Bem-vindo(a)!");
+    console.log("==================================");
 }
-
-
+mostrarMensagem();
 ```
 
 <br/>
@@ -71,14 +58,14 @@ namespace BemVindo
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bash" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias</h3>
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,windows,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github,git" />
   </a>
 </p>
 

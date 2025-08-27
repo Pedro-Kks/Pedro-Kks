@@ -29,15 +29,15 @@
       align="center" 
       alt="LOGO" 
       height="100"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  </p>
  
  <br>
  
  ```cs
-// bemvindo.ts
+// bemvindo.js
 
-function mostrarMensagem(): void {
+function mostrarMensagem() {
     console.log("==================================");
     console.log("Olá! Bem-vindo(a)!");
     console.log("==================================");

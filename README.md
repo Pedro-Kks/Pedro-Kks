@@ -7,7 +7,7 @@
 
 # 👨‍💻 Pedro
 
-**`Estudante de Dev.Web`**
+**`Estudante de Programação`**
 </br>
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Aprendendo sobre **Desenvolvimento Web**.

@@ -35,13 +35,13 @@
  
  <br>
  
- ```cs
+ ```js
 // bemvindo.js
 
 function mostrarMensagem() {
-    console.log("==================================");
-    console.log("Olá! Bem-vindo(a)!");
-    console.log("==================================");
+    console.log("=====================");
+    console.log(" Olá! Bem-vindo(a)! ");
+    console.log("=====================");
 }
 mostrarMensagem();
 ```

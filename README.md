@@ -29,7 +29,7 @@
       align="center" 
       alt="LOGO" 
       height="100"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  </p>
  
  <br>
@@ -58,7 +58,7 @@ mostrarMensagem();
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bash" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias</h3>

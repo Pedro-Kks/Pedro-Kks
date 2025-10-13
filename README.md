@@ -59,7 +59,7 @@ mostrarMensagem();
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias</h3>

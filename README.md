@@ -83,7 +83,7 @@ mostrarMensagem();
 | Dark Web e Privacidade | XPSec Scurity | ✅ Concluído |
 | Formação em Cibersegurança | Hackers do Bem, SENAI - SP | ✅ Concluído |
 | Introdução à Cibersegurança | Cisco Networking Academy | ✅ Concluído |
-| Analista de Cibersegurança Júnior | Cisco Networking Academy | 🎯 Em andamento  |
+| Santander - Cibersegurança 2025 | Dio.me | 🎯 Em andamento  |
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -78,7 +78,7 @@ mostrarMensagem();
 
 ## 🎓 Certificados
 
-| Certificação | Instituição / Plataforma | Status |
+| Certificados | Instituição / Plataforma | Status |
 |---|---|---|
 | Dark Web e Privacidade | XPSec Scurity | ✅ Concluído |
 | Formação em Cibersegurança | Hackers do Bem, SENAI - SP | ✅ Concluído |

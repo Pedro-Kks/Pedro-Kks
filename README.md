@@ -9,11 +9,14 @@
 
 **`Estudante de Programação`**
 </br>
+```mk
+👋 Olá, Mundo! Sou o Pedro
+🚀 Front-end Developer | 💻 CyberSec Enthusiast
+
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
 - 🔐 Aprendendo sobre **Desenvolvimento Web**.
 - 🌍 Idiomas que falo: Português 🇧🇷 e Russo 🇷🇺 (A2 - B1).
-
-  
+```
 # Sobre mim 🇧🇷
 
 🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e principalmente o **idioma russo**, o qual eu amo tanto.
@@ -33,12 +36,6 @@
  </p>
 
  <br>
- 
- ```mk
-# 👋 Olá, Mundo! Sou o [Pedro]
-
-🚀 Front-end Developer | 💻 CyberSec Enthusiast
-```
 
 ```javascript
 const sobreMim = {

@@ -35,7 +35,7 @@
  <br>
  
  ```mk
-# 👋 Hello, World! I'm [Seu Nome]
+# 👋 Olá, Mundo! Sou o [Pedro]
 
 🚀 Front-end Developer | 💻 CyberSec Enthusiast
 ```

@@ -24,18 +24,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</br>
- 
-<p align="center">
-    <img
-      align="center" 
-      alt="GIF" 
-      height="350"
-      src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif"
-    />
- </p>
+<div align="center">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b></b>
+</div>     
 
- <br>
+</br>
 
 ```js
 // 📄 bemvindo.js
@@ -72,13 +65,20 @@ function mostrarBemVindo() {
 mostrarBemVindo();
 console.log(sobreMim)
 ```
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b></b>
-</div>     
+<br/>
+
+<p align="center">
+    <img
+      align="center" 
+      alt="GIF" 
+      height="100%"
+      src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif"
+    />
+ </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
     <h3>🧑‍💻🔧Linguagens que utilizo</h3>

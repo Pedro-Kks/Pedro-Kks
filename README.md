@@ -9,14 +9,15 @@
 
 **`Estudante de Programação`**
 </br>
-```mk
+
 👋 Olá, Mundo! Sou o Pedro
 🚀 Front-end Developer | 💻 CyberSec Enthusiast
 
-- 🏴‍☠️ Estou cursando Defesa Cibernética🔒🖥️.
-- 🔐 Aprendendo sobre Desenvolvimento Web.
-- 🌍 Idiomas que falo: Português 🇧🇷 e Russo 🇷🇺 (A2 - B1).
-```
+- 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
+- 🔐 Aprendendo sobre **Desenvolvimento Web**.
+- 🌍 Idiomas que falo: **Português** 🇧🇷 e **Russo** 🇷🇺 (A2 - B1).
+
+
 # Sobre mim 🇧🇷
 
 🔍 Eu passo a maior parte do meu tempo estudando. Adoro estudar sobre **tecnologia**, **edição de vídeos** e principalmente o **idioma russo**, o qual eu amo tanto.
@@ -81,14 +82,14 @@ console.log(sobreMim)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-    <h3>🧑‍💻🔧Linguagens que utilizo</h3>
+    <h3>🧑‍💻🔧Linguagens que utilizo:</h3>
 </div>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <div align="center">
-    <h3>💾🐧Sistemas e Tecnologias</h3>
+    <h3>💾🐧Sistemas e Tecnologias:</h3>
 </div>
 <p align="center">
   <a href="#">

@@ -22,8 +22,35 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </br>
+ 
+<p align="center">
+    <img
+      align="center" 
+      alt="GIF" 
+      height="350"
+      src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif"
+    />
+ </p>
 
-</br>
+ <br>
+ 
+ ```mk
+# 👋 Hello, World! I'm [Seu Nome]
+
+🚀 Front-end Developer | 💻 CyberSec Enthusiast
+```
+
+```javascript
+const sobreMim = {
+  code: ["JavaScript", "HTML", "CSS", "Node.js"],
+  tools: ["VS Code", "Git", "GitHub", "Premiere PRO", "After Effects"],
+  hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
+};
+
+console.log("Seja Bem-vindo! 🎉");
+```
+<br>
+
 <p align="center">
     <img
       align="center" 
@@ -33,19 +60,6 @@
     />
  </p>
  
- <br>
- 
- ```js
-// bemvindo.js
-
-function mostrarMensagem() {
-    console.log("=====================");
-    console.log(" Olá! Bem-vindo(a)! ");
-    console.log("=====================");
-}
-mostrarMensagem();
-```
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

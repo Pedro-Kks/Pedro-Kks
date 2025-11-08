@@ -13,8 +13,8 @@
 👋 Olá, Mundo! Sou o Pedro
 🚀 Front-end Developer | 💻 CyberSec Enthusiast
 
-- 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Aprendendo sobre **Desenvolvimento Web**.
+- 🏴‍☠️ Estou cursando Defesa Cibernética🔒🖥️.
+- 🔐 Aprendendo sobre Desenvolvimento Web.
 - 🌍 Idiomas que falo: Português 🇧🇷 e Russo 🇷🇺 (A2 - B1).
 ```
 # Sobre mim 🇧🇷
@@ -37,26 +37,41 @@
 
  <br>
 
-```javascript
-const sobreMim = {
-  code: ["JavaScript", "HTML", "CSS", "Node.js"],
-  tools: ["VS Code", "Git", "GitHub", "Premiere PRO", "After Effects"],
-  hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
+```js
+// 📄 bemvindo.js
+
+function mostrarBemVindo() {
+    const asciiArt = `
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██████╗ ███████╗███╗   ███╗    ██╗    ██╗██╗███╗   ██╗   ║
+║    ██╔══██╗██╔════╝████╗ ████║    ██║    ██║██║████╗  ██║   ║
+║    ██████╔╝█████╗  ██╔████╔██║    ██║ █╗ ██║██║██╔██╗ ██║   ║
+║    ██╔══██╗██╔══╝  ██║╚██╔╝██║    ██║███╗██║██║██║╚██╗██║   ║
+║    ██████╔╝███████╗██║ ╚═╝ ██║    ╚███╔███╔╝██║██║ ╚████║   ║
+║    ╚═════╝ ╚══════╝╚═╝     ╚═╝     ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝   ║
+║                                                              ║
+║    ════════ ══ ═╦╔═╗╔╗╔╔═╗╔╦╗╔═╗╦  ╦ ═ ═════════ ═══        ║
+║                  ║║ ║║║║╠═╣║║║╠═╣║  ║                       ║
+║                  ╩╚═╝╝╚╝╩ ╩╩ ╩╩ ╩╩═╝╩                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+    `;
+    
+    console.log(asciiArt);
+    console.log("🚀 Bem-vindo ao meu perfil do GitHub!");
+    console.log("💻 Desenvolvedor Front-End | 🌟 Sempre aprendendo");
+
+  const sobreMim = {
+    code: ["JavaScript", "HTML", "CSS", "Node.js"],
+    tools: ["VS Code", "Git", "GitHub", "Premiere PRO", "After Effects"],
+    hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
+ }
 };
 
-console.log("Seja Bem-vindo! 🎉");
+mostrarBemVindo();
+console.log(sobreMim)
 ```
-<br>
-
-<p align="center">
-    <img
-      align="center" 
-      alt="LOGO" 
-      height="350"
-      src="./bannertsjs.jpg"
-    />
- </p>
- 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

@@ -74,11 +74,11 @@ console.log(sobreMim)
       align="center" 
       alt="GIF" 
       height="100%"
-      src="https://i.pinimg.com/originals/84/df/51/84df51b4bb34f6fb7f02c5d85fd9c960.gif"
+      src="https://i.pinimg.com/originals/56/46/cb/5646cb27daa001790bc3ed77beeaace5.gif"
     />
  </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <div align="center">
     <h3>🧑‍💻🔧Linguagens que utilizo:</h3>

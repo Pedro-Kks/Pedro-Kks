@@ -88,11 +88,11 @@ console.log(sobreMim)
     <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <div align="center">
-    <h3>💾🐧Sistemas e Tecnologias:</h3>
+    <h3>💾🐧Sistemas e Tecnologias que utilizo:</h3>
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,git" />
   </a>
 </p>
 

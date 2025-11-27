@@ -11,10 +11,10 @@
 </br>
 
 👋 Olá, Mundo! Sou o Pedro
-🚀 Front-end Developer | 💻 CyberSec Enthusiast
+🚀 💻 CyberSec Student
 
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Aprendendo sobre **Desenvolvimento Web**.
+- 🔐 Aprendendo sobre **Redes, SO e Cibersegurança**.
 - 🌍 Idiomas que falo: **Português** 🇧🇷 e **Russo** 🇷🇺 (A2 - B1).
 
 
@@ -53,10 +53,10 @@ function mostrarBemVindo() {
     
     console.log(asciiArt);
     console.log("🚀 Bem-vindo ao meu perfil do GitHub!");
-    console.log("💻 Desenvolvedor Front-End | 🌟 Sempre aprendendo");
+    console.log("💻 🌟 Sempre aprendendo");
 
   const sobreMim = {
-    code: ["JavaScript", "HTML", "CSS", "Node.js"],
+    code: ["JavaScript", "HTML", "CSS", "Python"],
     tools: ["VS Code", "Git", "GitHub", "Premiere PRO", "After Effects"],
     hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
  }
@@ -85,7 +85,7 @@ console.log(sobreMim)
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias que utilizo:</h3>

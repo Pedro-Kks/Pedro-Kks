@@ -14,7 +14,7 @@
 🚀 💻 CyberSec Student
 
 - 🏴‍☠️ Estou cursando **Defesa Cibernética**🔒🖥️.
-- 🔐 Aprendendo sobre **Redes, SO(Linux) e Cibersegurança**.
+- 🔐 Aprendendo sobre **Redes, SO Linux e Cibersegurança**.
 - 🌍 Idiomas que falo: **Português** 🇧🇷 e **Russo** 🇷🇺 (A2 - B1).
 
 

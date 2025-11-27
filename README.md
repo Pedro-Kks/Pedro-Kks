@@ -56,8 +56,8 @@ function mostrarBemVindo() {
     console.log("💻 🌟 Sempre aprendendo");
 
   const sobreMim = {
-    code: ["JavaScript", "HTML", "CSS", "Python"],
-    tools: ["VS Code", "Git", "GitHub", "CachyOS"],
+    code: ["Python", "HTML", "CSS", "JavaScript"],
+    tools: ["VS Code", "Git", "GitHub"],
     hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
  }
 };

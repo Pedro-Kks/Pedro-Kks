@@ -7,7 +7,7 @@
 
 # 👨‍💻 Pedro
 
-**`Estudante de Programação`**
+**`Estudante de CyberSec`**
 </br>
 
 👋 Olá, Mundo! Sou o Pedro

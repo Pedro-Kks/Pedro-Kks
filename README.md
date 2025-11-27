@@ -85,7 +85,7 @@ console.log(sobreMim)
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias que utilizo:</h3>

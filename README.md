@@ -57,7 +57,7 @@ function mostrarBemVindo() {
 
   const sobreMim = {
     code: ["JavaScript", "HTML", "CSS", "Python"],
-    tools: ["VS Code", "Git", "GitHub", "Premiere PRO", "After Effects"],
+    tools: ["VS Code", "Git", "GitHub", "CachyOS"],
     hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
  }
 };

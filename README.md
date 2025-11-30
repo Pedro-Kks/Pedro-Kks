@@ -56,7 +56,7 @@ function mostrarBemVindo() {
     console.log("💻 🌟 Sempre aprendendo");
 
   const sobreMim = {
-    code: ["Python", "HTML", "CSS", "JavaScript"],
+    code: ["HTML", "CSS", "JavaScript"],
     tools: ["VS Code", "Git", "GitHub"],
     hobbies: ["Estudar Russo", "Jogar GAMES", "Gym"],
  }
@@ -85,7 +85,7 @@ console.log(sobreMim)
 </div>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <div align="center">
     <h3>💾🐧Sistemas e Tecnologias que utilizo:</h3>

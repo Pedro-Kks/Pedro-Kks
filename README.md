@@ -74,7 +74,7 @@ console.log(sobreMim)
       align="center" 
       alt="GIF" 
       height="100%"
-      src="https://i.pinimg.com/originals/56/46/cb/5646cb27daa001790bc3ed77beeaace5.gif"
+      src="https://i.pinimg.com/originals/ff/57/90/ff579015e347bb16bb97ca0479f3dc9e.gif"
     />
  </p>
 

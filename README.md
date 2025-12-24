@@ -109,7 +109,7 @@ console.log(sobreMim)
 | Dark Web e Privacidade | XPSec Scurity | ✅ Concluído |
 | Formação em Cibersegurança | Hackers do Bem, SENAI - SP | ✅ Concluído |
 | Introdução à Cibersegurança | Cisco Networking Academy | ✅ Concluído |
-| Santander - Cibersegurança 2025 | Plataforma DIO.me | 🎯 Em andamento  |
+| Cybersecurity Nano | Plataforma FIAP | 🎯 Em andamento  |
 
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
